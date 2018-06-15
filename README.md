@@ -1,4 +1,4 @@
-## React-Native app - Citibike App 
+## React-Native - Citibike App 
 
 A react-native app that uses the citibike api to show real time bike status data at stations. 
 
